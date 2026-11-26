@@ -6,5 +6,13 @@
     "filename": "Map.cs",
     "summary": "private float deltaX, deltaY;",
     "published_at": "2026-11-25T19:17:38"
+  },
+  {
+    "id": "1004-kdh-dm-storytypes-64846e",
+    "dir_name": "1004-kdh-dm-storytypes",
+    "language": "C# / Unity",
+    "filename": "StoryTypes.cs",
+    "summary": "Reusable C# / Unity module featuring `Msg` (`StoryTypes.cs`).",
+    "published_at": "2026-11-26T19:17:42"
   }
 ]

@@ -3,7 +3,7 @@
 Reusable Unity & C# game mechanics, controllers, and helper scripts.
 
 > 🌐 Website: [https://jbmsoft.co.kr](https://jbmsoft.co.kr)  
-> 📦 Published Modules: **1**
+> 📦 Published Modules: **2**
 
 ---
 
@@ -12,6 +12,7 @@ Reusable Unity & C# game mechanics, controllers, and helper scripts.
 | Module | Language | Summary |
 | --- | --- | --- |
 | [Map.cs](modules/002-10000bo-map) | `C# / Unity` | private float deltaX, deltaY; |
+| [StoryTypes.cs](modules/1004-kdh-dm-storytypes) | `C# / Unity` | Reusable C# / Unity module featuring `Msg` (`StoryTypes.cs`). |
 
 ---
 
